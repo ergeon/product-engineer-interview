@@ -58,4 +58,3 @@ Our seller success team has received feedback from merchants on our platform.
 3. Test existing functionality to see how it works
 4. Implement your solutions
 
-Good luck!
