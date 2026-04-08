@@ -2,6 +2,6 @@ Django==4.2.0
 djangorestframework==3.14.0
 python-dotenv==1.0.0
 requests==2.31.0
-black==23.12.1
+black==26.3.1
 flake8==7.0.0
 isort==5.13.2
